@@ -1,4 +1,4 @@
-Created a simple Flask web application using CI/CD techniques, namely using GitHub Actions, which check each git push and then deploy the application to the Google Cloud Platform cloud service using Cloud Run.
+### Created a simple Flask web application using CI/CD techniques, namely using GitHub Actions, which check each git push and then deploy the application to the Google Cloud Platform cloud service using Cloud Run.
 
 Step-by-step, the application works as follows:
 
@@ -11,5 +11,5 @@ Step-by-step, the application works as follows:
 
 Such an architectural solution will ensure automatic, scalable and secure web application development.
 
-Diagram of Flask Web Application
+### Diagram of Flask Web Application
 ![flask-diagram](https://github.com/user-attachments/assets/53d76c97-ffb9-460e-aaf3-e4fc122a8ec0)
