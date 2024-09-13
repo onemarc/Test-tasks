@@ -1,5 +1,5 @@
 ### For the first task, I created a simple Flask web application, but using Flask as a backend tool, we can develop an application that helps different people demonstrate their skills or list the platforms they need on their resume or GitHub profile.
-The layout is shown below
+The layout is shown below:
 ![image](https://github.com/user-attachments/assets/e4ba7107-757d-4d89-87e3-72bc85980090)
 
 ![image](https://github.com/user-attachments/assets/c32036dd-7c8a-42ea-a02f-1daca76c9e17)
