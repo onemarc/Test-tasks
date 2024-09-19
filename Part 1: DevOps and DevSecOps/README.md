@@ -12,4 +12,4 @@ Step-by-step, the application works as follows:
 Such an architectural solution will ensure automatic, scalable and secure web application development.
 
 ### Diagram of Flask Web Application
-![diagram-for-flask-web-app](https://github.com/user-attachments/assets/458e89d2-7ae3-4f7d-8a2d-61d9533d133f)
+![diagram-for-flask-web-app](https://github.com/user-attachments/assets/b05c043d-a247-42c2-a014-83a288461cd3)
